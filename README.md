@@ -9,10 +9,10 @@
 vers un domaine que vous savez tous passionnant: l'informatique.  
 
 ## Formations
-2025 : Bootcamp Technicien supérieur systèmes et réseaux, [_Wild Code School_](https://www.wildcodeschool.com/)  
-2018-2019 : Licence Professionnelle Contrôle Analyse Qualité spécialisation synthèse  
-2016-2018 : DUT de chimie à l’[_IUT Paul Sabatier Castres_](https://iut-chimie.univ-tlse3.fr/) option synthèse  
-2016 : Baccalauréat Scientifique  
+**2025** : Bootcamp Technicien supérieur systèmes et réseaux, [_Wild Code School_](https://www.wildcodeschool.com/)  
+**2018-2019** : Licence Professionnelle Contrôle Analyse Qualité spécialisation synthèse  
+**2016-2018** : DUT de chimie à l’[_IUT Paul Sabatier Castres_](https://iut-chimie.univ-tlse3.fr/) option synthèse  
+**2016** : Baccalauréat Scientifique  
 
 ## Experience professionnelle
 **Novembre 2020 - Janvier 2025** : Technicien supérieur en chimie de synthèse à [_Evotec_](https://www.evotec.com/)  
