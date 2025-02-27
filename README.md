@@ -1,19 +1,11 @@
 # **_Killian CASTILLO_**
-<img src="(![20240612_231237](https://github.com/user-attachments/assets/ac6ef2c9-4f49-43d9-bedc-e20902fc1b66))" alt="Mon chat et ma tête" width="100"/>
 
-![Rocket](file://C:/Users/Me/Desktop/Rocket)
+<img src="humanoid-robot-sticker.jpg" alt="Me" width="120"/>  
 
-![Rocket](file://C:/Utilisateurs/33632/Bureau/Rocket.png)
-
-
-<img src="![Image](https://github.com/user-attachments/assets/0dd91529-a842-4ef8-9ad9-a5c37d5eb206)" alt="Image" width="100"/>
-
-
-
-
+>At your service
 
 ## Présentation
-<img src="https://cdn-icons-png.flaticon.com/256/4889/4889065.png" alt="chimie médicinale" width="20"/>  Après quatre an en tant que technicien en chimie médicinale, j'ai choisit de me réorienter
+<img src="https://cdn-icons-png.flaticon.com/256/4889/4889065.png" alt="chimie médicinale" width="20"/>  Après quatre ans en tant que technicien en chimie médicinale, j'ai choisit de me réorienter
 vers un domaine que vous savez tous passionnant: l'informatique.  
 
 ## Formations
